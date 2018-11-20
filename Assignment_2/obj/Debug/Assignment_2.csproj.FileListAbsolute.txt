@@ -1,0 +1,18 @@
+c:\users\saltymcblasty\documents\visual studio 2015\Projects\Assignment_2\Assignment_2\bin\Debug\Assignment_2.exe.config
+c:\users\saltymcblasty\documents\visual studio 2015\Projects\Assignment_2\Assignment_2\bin\Debug\Assignment_2.exe
+c:\users\saltymcblasty\documents\visual studio 2015\Projects\Assignment_2\Assignment_2\bin\Debug\Assignment_2.pdb
+c:\users\saltymcblasty\documents\visual studio 2015\Projects\Assignment_2\Assignment_2\obj\Debug\Assignment_2.csprojResolveAssemblyReference.cache
+c:\users\saltymcblasty\documents\visual studio 2015\Projects\Assignment_2\Assignment_2\obj\Debug\Assignment_2.frmCalcGrades.resources
+c:\users\saltymcblasty\documents\visual studio 2015\Projects\Assignment_2\Assignment_2\obj\Debug\Assignment_2.Properties.Resources.resources
+c:\users\saltymcblasty\documents\visual studio 2015\Projects\Assignment_2\Assignment_2\obj\Debug\Assignment_2.csproj.GenerateResource.Cache
+c:\users\saltymcblasty\documents\visual studio 2015\Projects\Assignment_2\Assignment_2\obj\Debug\Assignment_2.exe
+c:\users\saltymcblasty\documents\visual studio 2015\Projects\Assignment_2\Assignment_2\obj\Debug\Assignment_2.pdb
+C:\Users\Administrator.LUCASOLD\Google Drive\Georgian College Work\C# - COMP 1035\C#_Projects\Assignment_2\Assignment_2\bin\Debug\Assignment_2.exe.config
+C:\Users\Administrator.LUCASOLD\Google Drive\Georgian College Work\C# - COMP 1035\C#_Projects\Assignment_2\Assignment_2\obj\Debug\Assignment_2.exe
+C:\Users\Administrator.LUCASOLD\Google Drive\Georgian College Work\C# - COMP 1035\C#_Projects\Assignment_2\Assignment_2\obj\Debug\Assignment_2.pdb
+C:\Users\Administrator.LUCASOLD\Google Drive\Georgian College Work\C# - COMP 1035\C#_Projects\Assignment_2\Assignment_2\bin\Debug\Assignment_2.exe
+C:\Users\Administrator.LUCASOLD\Google Drive\Georgian College Work\C# - COMP 1035\C#_Projects\Assignment_2\Assignment_2\bin\Debug\Assignment_2.pdb
+C:\Users\Administrator.LUCASOLD\Google Drive\Georgian College Work\C# - COMP 1035\C#_Projects\Assignment_2\Assignment_2\obj\Debug\Assignment_2.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.LUCASOLD\Google Drive\Georgian College Work\C# - COMP 1035\C#_Projects\Assignment_2\Assignment_2\obj\Debug\Assignment_2.frmCalcGrades.resources
+C:\Users\Administrator.LUCASOLD\Google Drive\Georgian College Work\C# - COMP 1035\C#_Projects\Assignment_2\Assignment_2\obj\Debug\Assignment_2.Properties.Resources.resources
+C:\Users\Administrator.LUCASOLD\Google Drive\Georgian College Work\C# - COMP 1035\C#_Projects\Assignment_2\Assignment_2\obj\Debug\Assignment_2.csproj.GenerateResource.Cache

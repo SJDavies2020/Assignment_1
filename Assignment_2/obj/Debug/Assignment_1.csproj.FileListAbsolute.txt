@@ -1,0 +1,12 @@
+E:\Georgian College\C# - COMP 1035\Assignment_2\bin\Debug\Assignment_2.exe.config
+E:\Georgian College\C# - COMP 1035\Assignment_2\obj\Debug\Assignment_2.exe
+E:\Georgian College\C# - COMP 1035\Assignment_2\obj\Debug\Assignment_2.pdb
+E:\Georgian College\C# - COMP 1035\Assignment_2\bin\Debug\Assignment_2.exe
+E:\Georgian College\C# - COMP 1035\Assignment_2\bin\Debug\Assignment_2.pdb
+E:\Georgian College\C# - COMP 1035\Assignment_2\obj\Debug\Assignment_1.csprojResolveAssemblyReference.cache
+E:\Georgian College\C# - COMP 1035\Assignment_2\obj\Debug\Assignment_2.frmCalcGrades.resources
+E:\Georgian College\C# - COMP 1035\Assignment_2\obj\Debug\Assignment_2.Properties.Resources.resources
+E:\Georgian College\C# - COMP 1035\Assignment_2\obj\Debug\Assignment_1.csproj.GenerateResource.Cache
+E:\Georgian College\C# - COMP 1035\Assignment_1\Assignment_2\bin\Debug\Assignment_2.exe.config
+E:\Georgian College\C# - COMP 1035\Assignment_1\Assignment_2\obj\Debug\Assignment_2.exe
+E:\Georgian College\C# - COMP 1035\Assignment_1\Assignment_2\obj\Debug\Assignment_2.pdb
